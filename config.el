@@ -7,4 +7,4 @@
 
 (add-hook 'fountain-mode-hook 'fountain-face-mode-courier)
 (add-hook 'fountain-mode-hook 'olivetti-mode)
-(add-hook 'fountain-mode-hook 'imenu-list-minor-mode)
+;;(add-hook 'fountain-mode-hook 'imenu-list-minor-mode)
